@@ -1,7 +1,7 @@
 # chat_flutter
 
 ## Description
-This is a simple Chat App made in Flutter
+This is a simple Chat Example App made in Flutter
 
 ## Details
 ```diff
